@@ -15,15 +15,15 @@ In **WeatherPy**, weather data from over 500 cities is analyzed, examining relat
 #### Key Tasks
 - **Data Collection**: Gather weather data using the OpenWeatherMap API.
 - **Visualization**: Generate scatter plots to analyze:
- - Latitude vs. Temperature
- - Latitude vs. Humidity
- - Latitude vs. Cloudiness
- - Latitude vs. Wind Speed
+    - Latitude vs. Temperature
+    - Latitude vs. Humidity
+    - Latitude vs. Cloudiness
+    - Latitude vs. Wind Speed
 - **Linear Regression Analysis**: Separate data into Northern and Southern Hemispheres and compute linear regressions for each parameter against latitude.
 - **Scatter Plot**: Latitude vs. Temperature, Humidity, Cloudiness, Wind Speed
 - **Linear Regression**: Includes regression lines for each weather parameter in both hemispheres, R-squared values, and trend analysis.
 
-### VacationPy: Using weather data to identify ideal vacation spots based on desired conditions.
+### VacationPy
 
 In **VacationPy**, ideal vacation locations are identified based on selected weather conditions. Using filtered weather data,Geoapify is used to find hotels near each location.
 
