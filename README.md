@@ -57,6 +57,7 @@ from citipy import citipy  # For finding cities by geographic coordinates
 You will also need API keys from:
 
 OpenWeatherMap API: For weather data.
+
 Geoapify API: For location-based services.
 
 Please generate `api_keys.py` and place your API keys in the file as shown below:
